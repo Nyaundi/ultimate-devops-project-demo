@@ -1,6 +1,7 @@
 # Copyright The OpenTelemetry Authors
 # SPDX-License-Identifier: Apache-2.0
-
+#What exactly does dockerdddd do? 
+###Learn how to fix docker d
 x-default-logging: &logging
   driver: "json-file"
   options:
